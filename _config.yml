@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "es-PE"
-title                    : "hiteek.io"
+title                    : "acecomfcuni.io"
 title_separator          : "-"
-name                     : "Hiteek"
-description              : "HTB Writeups and Posts about security"
-url                      : "https://hiteek.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "acecomfcuni"
+description              : "Post about our projects"
+url                      : "https://acecomfcuni.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Hiteek/hiteek.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "acecomfcuni/acecomfcuni.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hiteek"
+  name             : "ACECOM"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "CTF player"
+  bio              : "Asociación Cientifica Especializada en Computación"
   location         : "Peru"
-  email            : "ruben.ricapa.c@uni.pe"
+  email            : "acecom@uni.edu.pe"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : #
@@ -114,13 +114,13 @@ author:
   flickr           : #
   facebook         : #
   foursquare       : #
-  github           : "Hiteek"
+  github           : "acecomFCUNI"
   gitlab           : #
   google_plus      : #
   keybase          : #
   instagram        : #
   lastfm           : #
-  linkedin         : ruben-anthony-ricapa-corrales-318252191
+  linkedin         : acecomfc
   pinterest        : #
   soundcloud       : #
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
