@@ -6,8 +6,7 @@ classes: wide
 header:
   teaser: /assets/images/notes-about-ssh/teaser.jpg
 categories:
-  - HowTo
-  - Linux
+  - Security
 tags:
   - Networking
   - OpenSSH server

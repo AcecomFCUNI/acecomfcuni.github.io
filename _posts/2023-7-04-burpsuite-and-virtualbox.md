@@ -6,12 +6,9 @@ classes: wide
 header:
   teaser: /assets/images/burpsuite-and-virtualbox/teaser.jpg
 categories:
-  - Virtual Machines
-  - Tutoriales de BurpSuite
-  - BurpSuite
+  - Security
 tags:
   - Web Hacking
-  - Intercepción de peticiones
 ---
 
 
