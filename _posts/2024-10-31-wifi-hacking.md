@@ -11,6 +11,8 @@ tags:
   - Wifi Hacking
 ---
 
+![image.png](/assets/images/wifi-hacking/teaser.jpg)
+
 **Autor**: [https://github.com/AndrewSthephen23](https://github.com/AndrewSthephen23)
 
 # Tabla de Contenidos

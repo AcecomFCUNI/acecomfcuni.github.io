@@ -11,6 +11,8 @@ tags:
   - CTF
 ---
 
+![image.png](/assets/images/write-up-game-zone/teaser.jpg)
+
 **Autor**: [https://github.com/AndrewSthephen23](https://github.com/AndrewSthephen23)
 
 # Reconocimiento

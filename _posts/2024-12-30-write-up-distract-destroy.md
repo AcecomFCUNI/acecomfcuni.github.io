@@ -11,6 +11,8 @@ tags:
   - CTF
 ---
 
+![image.png](/assets/images/write-up-distract-destroy/teaser.jpg)
+
 **Autor**: [https://github.com/AlesxanDer1102](https://github.com/AlesxanDer1102)
 
 

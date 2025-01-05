@@ -11,6 +11,8 @@ tags:
   - Phishing
 ---
 
+![image.png](/assets/images/spf-dkim-dmarc/teaser.jpg)
+
 **Autor**: [https://github.com/Jhon-Lorenzo](https://github.com/Jhon-Lorenzo)
 
 En este artículo, exploraremos las verificaciones SPF, DKIM y DMARC, que son esenciales para garantizar la seguridad y autenticidad de los correos electrónicos. Estas tecnologías ayudan a prevenir el phishing y el spam al verificar que los correos electrónicos provienen de fuentes legítimas. A continuación, se presentan detalles sobre cada una de estas verificaciones y cómo configurarlas.

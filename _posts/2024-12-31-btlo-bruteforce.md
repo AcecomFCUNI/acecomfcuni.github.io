@@ -11,6 +11,8 @@ tags:
   - CTF
 ---
 
+![image.png](/assets/images/btlo-bruteforce/teaser.jpg)
+
 **Autor**: Elias
 
 Este writeup documenta la resolución del laboratorio **"Bruteforce"** de Blue Team Labs Online, que simula un ataque de fuerza bruta contra un sistema. 

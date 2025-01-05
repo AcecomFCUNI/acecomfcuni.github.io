@@ -11,6 +11,8 @@ tags:
   - Web Hacking
 ---
 
+![image.png](/assets/images/burpsuite-and-virtualbox/teaser.jpg)
+
 **Autor**: [https://github.com/Hiteek](https://github.com/Hiteek)
 
 ¿Alguna vez te has preguntado si es posible interceptar las consultas que realizas con tu navegador dentro de una máquina virtual? ¡Yo también lo hice! Durante una de mis reuniones, un compañero de trabajo me planteó esta pregunta un poco fuera de lo común y, aunque al principio pensé que era innecesario, luego me di cuenta de que puede ser muy útil, especialmente para aquellos que tienen un sistema principal en Windows y una máquina virtual en Linux con pocos recursos que no puede mantener abiertos el navegador y BurpSuite al mismo tiempo.
