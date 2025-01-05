@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Distract and Destroy Writeup — HTB
-date: 2023-07-4
+date: 2024-12-30
 classes: wide
 header:
   teaser: /assets/images/write-up-distract-destroy/teaser.jpg
