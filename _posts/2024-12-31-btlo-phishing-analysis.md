@@ -13,7 +13,7 @@ tags:
 
 ![image.png](/assets/images/btlo-phishing-analysis/teaser.png)
 
-**Autor**: Elias
+**Autor**: [https://github.com/EnocRosales20](https://github.com/EnocRosales20)
 
 En este laboratorio de Blue Team Labs Online, hemos recibido un correo electrónico de phishing reenviado por un usuario al SOC. El objetivo es investigar el correo y su archivo adjunto para recopilar información útil y detectar posibles amenazas.
 

@@ -13,7 +13,7 @@ tags:
 
 ![image.png](/assets/images/btlo-bruteforce/teaser.png)
 
-**Autor**: Elias
+**Autor**: [https://github.com/EnocRosales20](https://github.com/EnocRosales20)
 
 Este writeup documenta la resolución del laboratorio **"Bruteforce"** de Blue Team Labs Online, que simula un ataque de fuerza bruta contra un sistema. 
 
