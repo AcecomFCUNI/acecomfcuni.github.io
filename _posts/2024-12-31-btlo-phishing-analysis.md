@@ -4,14 +4,14 @@ title: BTLO - Phishing Analysis
 date: 2024-12-31
 classes: wide
 header:
-  teaser: /assets/images/btlo-phishing-analysis/teaser.jpg
+  teaser: /assets/images/btlo-phishing-analysis/teaser.png
 categories:
   - Security
 tags:
   - CTF
 ---
 
-![image.png](/assets/images/btlo-phishing-analysis/teaser.jpg)
+![image.png](/assets/images/btlo-phishing-analysis/teaser.png)
 
 **Autor**: Elias
 

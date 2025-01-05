@@ -4,14 +4,14 @@ title: BTLO - Bruteforce
 date: 2024-12-31
 classes: wide
 header:
-  teaser: /assets/images/btlo-bruteforce/teaser.jpg
+  teaser: /assets/images/btlo-bruteforce/teaser.png
 categories:
   - Security
 tags:
   - CTF
 ---
 
-![image.png](/assets/images/btlo-bruteforce/teaser.jpg)
+![image.png](/assets/images/btlo-bruteforce/teaser.png)
 
 **Autor**: Elias
 
